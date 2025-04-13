@@ -14,7 +14,6 @@ Atualmente, estou focado nos seguintes tópicos:
   - Frontend: ReactJS, React Native, Tailwind
   - Backend: NodeJS, Django, .NET C#, Flask
 - 🛠️ **DevOps & Cloud**: Docker, GitHub Actions, AWS (básico)
-- 🧠 **Projetos de Pesquisa & Inovação**: STEM, P&D acadêmico
 
 ## 🧑‍💻 Linguagens & Tecnologias
 
