@@ -1,6 +1,6 @@
 # 👨‍💻 Ronald Boadana
 
-🎓 Finalista em Engenharia de Computação | 💻 Dev Full Stack | 🚀 Apaixonado por tecnologia e inovação
+🎓 Engenheiro de Computação | 💻 Dev Full Stack | 🎓 Pós-graduando em Ciência de Dados
 
 ---
 
@@ -11,9 +11,9 @@ Atualmente, estou focado nos seguintes tópicos:
 - 🔍 **Inteligência Artificial e Machine Learning** (Python, Scikit-learn, TensorFlow)
 - 🧩 **Arquitetura de Software** (REST APIs, Clean Architecture, SOLID)
 - 🌐 **Desenvolvimento Web e Mobile**
-  - Frontend: ReactJS, React Native, Next.js, Tailwind
+  - Frontend: ReactJS, React Native, Tailwind
   - Backend: NodeJS, Django, .NET C#
-- 🛠️ **DevOps & Cloud**: Docker, GitHub Actions, Azure (básico)
+- 🛠️ **DevOps & Cloud**: Docker, GitHub Actions, AWS (básico)
 - 🧠 **Projetos de Pesquisa & Inovação**: STEM, P&D acadêmico
 
 ## 🧑‍💻 Linguagens & Tecnologias que uso
@@ -30,6 +30,14 @@ Atualmente, estou focado nos seguintes tópicos:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -37,7 +45,15 @@ Atualmente, estou focado nos seguintes tópicos:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougrasbh&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougrasbh&layout=compact&theme=tokyonight)
-
+<div>
+  <a href="https://github.com/dougrasbh">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dougrasbh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <br>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougrasbh&layout=compact&langs_count=10&theme=cobalt"/>
+<div>
+<br>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=dougrasbh&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D"/>
+<br>
 ---
 
 ## 🌎 Contato
