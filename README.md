@@ -35,16 +35,12 @@ Atualmente, estou focado nos seguintes tópicos:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougrasbh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougrasbh&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌎 Contato
 
-- [LinkedIn](https://linkedin.com/in/seu-linkedin)
-- Email: ronald@email.com
-- Portfolio: [ronald.dev](https://ronald.dev) *(opcional)*
-
----
-> "A melhor forma de prever o futuro é criá-lo." — Alan Kay
+- [LinkedIn](https://linkedin.com/in/ronald-boadana-b47158216/)
+- Email: ronald.bhd@outlook.com
