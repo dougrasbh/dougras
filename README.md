@@ -8,15 +8,15 @@
 
 Atualmente, estou focado nos seguintes tópicos:
 
-- 🔍 **Inteligência Artificial e Machine Learning** (Python, Scikit-learn, TensorFlow)
+- 🔍 **Inteligência Artificial e NLP** (Python, CrewAI, Langchain)
 - 🧩 **Arquitetura de Software** (REST APIs, Clean Architecture, SOLID)
 - 🌐 **Desenvolvimento Web e Mobile**
   - Frontend: ReactJS, React Native, Tailwind
-  - Backend: NodeJS, Django, .NET C#
+  - Backend: NodeJS, Django, .NET C#, Flask
 - 🛠️ **DevOps & Cloud**: Docker, GitHub Actions, AWS (básico)
 - 🧠 **Projetos de Pesquisa & Inovação**: STEM, P&D acadêmico
 
-## 🧑‍💻 Linguagens & Tecnologias que uso
+## 🧑‍💻 Linguagens & Tecnologias
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -45,16 +45,10 @@ Atualmente, estou focado nos seguintes tópicos:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougrasbh&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougrasbh&layout=compact&theme=tokyonight)
-<div>
-  <a href="https://github.com/dougrasbh">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dougrasbh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougrasbh&layout=compact&langs_count=10&theme=cobalt"/>
-<div>
+
 <br>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=dougrasbh&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D"/>
 <br>
----
 
 ## 🌎 Contato
 
